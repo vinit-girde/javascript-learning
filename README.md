@@ -1,6 +1,6 @@
 ﻿# Learning JavaScript
 
-This repository, [https://github.com/vinit-girde/learning-javascript](https://github.com/vinit-girde/learning-javascript), documents my journey of learning and practicing JavaScript. It's a collection of code examples, exercises, and projects that I've created to solidify my understanding of the language.
+This repository, [https://github.com/vinit-girde/learning-javascript](https://github.com/vinit-girde/javascript-learning), documents my journey of learning and practicing JavaScript. It's a collection of code examples, exercises, and projects that I've created to solidify my understanding of the language.
 
 ## About This Repository
 
